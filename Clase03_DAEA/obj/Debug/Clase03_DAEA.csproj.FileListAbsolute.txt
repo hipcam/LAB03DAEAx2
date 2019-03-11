@@ -1,0 +1,11 @@
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.csprojAssemblyReference.cache
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.Form1.resources
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.Properties.Resources.resources
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.csproj.GenerateResource.cache
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.csproj.CoreCompileInputs.cache
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\bin\Debug\Clase03_DAEA.exe.config
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\bin\Debug\Clase03_DAEA.exe
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\bin\Debug\Clase03_DAEA.pdb
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.exe
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.pdb
+c:\users\alumno\source\repos\Clase03_DAEA\Clase03_DAEA\obj\Debug\Clase03_DAEA.Form2.resources
